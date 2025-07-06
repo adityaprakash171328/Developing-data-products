@@ -20,3 +20,6 @@ Server: Renders the histogram based on the selected number of bins.
 You can modify the dataset or the plot type by editing the server logic in app.R.
 
 Additional UI controls (e.g., dropdowns, checkboxes) can be added to the sidebar for more interactivity.
+
+# Output result
+http://127.0.0.1:3628/
